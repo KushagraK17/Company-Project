@@ -1,0 +1,467 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 20px;
+}
+
+.top {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.top img {
+    width: 250px;  /* Adjust size */
+    height: auto;
+}
+
+.container {
+    max-width: 1500px;
+    margin: 90px auto 0;  /* Push down content */
+    padding-top: 20px;
+    
+}
+.purple-text {
+    color: rgb(120, 71, 157);
+    font-size: 38px;
+    font-weight: bold; 
+}
+
+.green-text {
+    color: rgb(75, 140, 96);
+    font-size: 38px;
+    font-weight: bold; 
+}
+
+.broker-card1 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card2 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card3 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card4 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card5 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card6 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card7 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card8 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card9 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card10 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card11 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card12 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card13 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card14 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card15 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card16 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card17 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card18 {
+    display: flex;
+    align-items: center;
+    background: #fbe7c0;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-card19 {
+    display: flex;
+    align-items: center;
+    background: #acbbdd;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.broker-logo {
+    width: 80px;
+    height: 80px;
+    margin-right: 20px;
+    border-radius: 8px;
+}
+
+.broker-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Aligns content to the left */
+    justify-content: flex-start; /* Moves content to the upper part */
+    gap: 2px; /* Adjusts spacing between "Angel One" and stars */
+}
+
+
+.broker-name {
+    font-size: 38px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 2%;
+}
+.star-rating {
+    text-decoration: none; /* Remove underline */
+    color: rgb(255, 178, 91); /* Set star color */
+}
+.broker-stats {
+    display: flex;
+    align-items: center;
+    gap: 83px;
+    margin-bottom: 17px;
+    flex-grow: 1; /* Allows stats to take up available space */
+}
+
+.text, .charge {
+    list-style: none;
+    padding: 0;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 38px;
+}
+
+.text li {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Space between icon and text */
+    font-size: 21px;
+    font-weight: bold;
+    color: #333;
+    margin-right: 100px;
+}
+
+.text .material-icons-outlined {
+    font-size: 32px;  /* Adjust icon size */
+    color: rgb(41, 101, 43);  /* White tick */
+    border-radius: 4px; /* Rounded edges */
+    padding: 2px; /* Space around the tick */
+}
+
+
+.charge p{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+.charge-container {
+    display: flex;  /* Enables flexbox for horizontal alignment */
+    align-items: flex-start; /* Align items to the top */
+    justify-content: space-between; /* Distributes space between list and image */
+    width: 100%; /* Ensures full width */
+    max-width: 800px; /* Adjust as needed */
+    gap: 50px; /* Adds spacing between charge list and image */
+}
+.charge {
+    list-style: none;
+    padding: 0;
+    font-size: 17px;
+    font-weight: bold;
+    flex: 1; /* Allows list to take available space */
+}
+.charge li {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 17px;
+}
+
+.charge p {
+    font-size: 17px;
+    color: #666;
+    margin-top: 10px;
+}
+
+.charge-image {
+    width: 150px; /* Adjust as needed */
+    height: auto;
+    flex-shrink: 0; /* Prevents image from shrinking */
+}
+.stat1 {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Vertically center items */
+    gap: 7px; /* Add spacing between icon and text */
+    font-weight: 100px;
+}
+.stat2 {
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Vertically center items */
+    gap: 7px; /* Add spacing between icon and text */
+}
+
+.stat-value {
+    font-size: 29px;
+    font-weight: bold;
+    color: #333;
+}
+
+.stat-label {
+    font-size: 17px;
+    color: #666;
+}
+
+.broker-actions {
+    display: flex;
+    gap: 47px;
+}
+
+.action-button {
+    padding: 4px 8px;
+    font-size: 11px;
+    font-weight:bolder;
+    height: 27px;
+    width: 170px; /* Fixed width */
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: #000000;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.action-button.secondary {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.broker-features {
+    font-size: 14px;
+    color: #666;
+}
+
+
+.charge-image {
+    width: 300px; /* Adjust width */
+    height: auto;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+.angle_star{
+    margin-bottom: 38px;
+    margin-left: 11px;
+}
+p{
+    font-size: 29px;
+    font-weight: bold;
+}
+.below_star{
+    margin-bottom: 100px;
+}
+/* Navbar Styles */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 10px 30px;
+    margin-left: 500px;
+}
+
+/* Left Section */
+.nav-left .logo {
+    height: 50px;
+}
+
+/* Center Links */
+.nav-center {
+    display: flex;
+    gap: 38px;
+}
+
+.nav-center a {
+    text-decoration: none;
+    color: #666;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.nav-center a:hover {
+    color: black;
+}
+
+/* Right Section */
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.nav-right .material-icons-outlined{
+    color: #000000;
+    font-size: 34px;
+}
+
+.sign-in {
+    color: gray;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sign-up {
+    background-color: #3B82F6;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.sign-up:hover {
+    background-color: #2563EB;
+}
+
+/* Live News Badge */
+.badge {
+    background-color: blue;
+    color: white;
+    font-size: 12px;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+/* Menu Icon */
+.menu-icon {
+    font-size: 24px;
+    cursor: pointer;
+    display: none; /* Hidden on large screens */
+}
+
